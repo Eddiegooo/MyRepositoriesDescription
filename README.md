@@ -106,3 +106,7 @@
 47.[ZFProgressView](https://github.com/Eddiegooo/ZFProgressView)[圆形进度条，用GCD代替NSTimer，防止内存泄漏]
 
 48.[MKNetworkKit](https://github.com/Eddiegooo/MKNetworkKit)[说是这个更牛逼呢，进一步集成了AFNetworking，不过更新的比较慢，还是不更新了。。]
+
+49.[AnimatedCollectionViewLayout](https://github.com/Eddiegooo/AnimatedCollectionViewLayout)[不改变原来任何代码的情况下，直接引入，改变UICollectionView 的切换动画]
+
+50.[FSCalendar](https://github.com/Eddiegooo/FSCalendar)[swift版 日历控件]
