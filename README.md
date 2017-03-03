@@ -87,7 +87,7 @@
 
 38.[UITableView-FDTemplateLayoutCell](https://github.com/Eddiegooo/UITableView-FDTemplateLayoutCell)[cell高度自适应]
 
-39。[TSMessages](https://github.com/Eddiegooo/TSMessages)[各种提示信息的样式notification views on the top of the screen.]
+39.[TSMessages](https://github.com/Eddiegooo/TSMessages)[各种提示信息的样式notification views on the top of the screen.]
 
 40.[FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture)[全屏返回手势是的完美处理]
 
