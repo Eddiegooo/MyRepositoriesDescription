@@ -110,3 +110,5 @@
 49.[AnimatedCollectionViewLayout](https://github.com/Eddiegooo/AnimatedCollectionViewLayout)[不改变原来任何代码的情况下，直接引入，改变UICollectionView 的切换动画]
 
 50.[FSCalendar](https://github.com/Eddiegooo/FSCalendar)[swift版 日历控件]
+
+51.[FSPagerView](https://github.com/Eddiegooo/FSPagerView) [很牛逼的图片轮播图]
