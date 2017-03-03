@@ -43,7 +43,7 @@
 
 18.[MACProject](https://github.com/Eddiegooo/MACProject)[OC版本 APP轻量级框架]
 
-19.[folding-cell](https://github.com/Eddiegooo/folding-cell)[cell的折叠 展开]
+19.[folding-cell](https://github.com/Eddiegooo/folding-cell)[Swift版本 cell的折叠 展开] [OC实现的Folding-Cell](https://github.com/bref-Chan/CCFoldCell)
 
 20.[AnyRTC-RTMP](https://github.com/AnyRTC/AnyRTC-RTMP)[直播相关]
 
