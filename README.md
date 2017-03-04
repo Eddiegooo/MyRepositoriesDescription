@@ -111,7 +111,7 @@
 
 50.[FSCalendar](https://github.com/Eddiegooo/FSCalendar)[swift版 日历控件]
 
-51.[FSPagerView](https://github.com/Eddiegooo/FSPagerView) [很牛逼的图片轮播图]
+51.[FSPagerView](https://github.com/Eddiegooo/FSPagerView) [很牛逼的图片轮播图] [引用异常处理](https://github.com/WenchaoD/FSPagerView/issues/18#issuecomment-284128556)[不管你是手动拖还是使用CocoaPods，如果出现引用异常，请看这个issue]
 
 52.[WCLShineButton](https://github.com/Eddiegooo/WCLShineButton)[按键动画，向四周扩散型]
 
