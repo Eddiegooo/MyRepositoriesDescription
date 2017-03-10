@@ -9,7 +9,7 @@
 
 3.[TextFieldEffects](https://github.com/Eddiegooo/TextFieldEffects)[UITextField 多种样式，总有你想要的那个]
 
-4.[Alamofire](https://github.com/Eddiegooo/Alamofire)[swift语言，网络数据请求库。和OC的AFNetworking 一样]
+4.[Alamofire](https://github.com/Eddiegooo/Alamofire)[swift语言，网络数据请求库。和OC的AFNetworking 一样] [Moya](https://github.com/Eddiegooo/Moya)[更深一层封装的Alamofire，相当于OC版本的YTKRequest]
 
 5.[lottie](https://github.com/Eddiegooo/lottie-ios)[非常牛逼的利用JSON文件的动画]
 
@@ -118,3 +118,9 @@
 53.[Macaw](https://github.com/exyte/Macaw)[swift 写的图表，支持SVG等]
 
 54.[SnapKit](https://github.com/Eddiegooo/SnapKit)[swift中的Masonry] 其他相关：Cartography:自动布局DSL。Neon:一款关于UI自动布局的框架。Stevia:自动布局。TZStackView:UISatckView的代替品，支持iOS7+。
+
+55.[Reachability.swift](https://github.com/ashleymills/Reachability.swift)[检查网络状态，Alamofire貌似也可以吧]
+
+56[Kingfisher](https://github.com/onevcat/Kingfisher)[类似于OC的SDWebImage]
+55[Reachability.swift](https://github.com/ashleymills/Reachability.swift)[检查网络状态，Alamofire貌似也可以吧于]
+55[Reachability.swift](https://github.com/ashleymills/Reachability.swift)[检查网络状态，Alamofire貌似也可以吧]
