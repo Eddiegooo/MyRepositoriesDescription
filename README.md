@@ -117,4 +117,4 @@
 
 53.[Macaw](https://github.com/exyte/Macaw)[swift 写的图表，支持SVG等]
 
-54.[SnapKit](https://github.com/Eddiegooo/SnapKit)[swift中的Masonry]
+54.[SnapKit](https://github.com/Eddiegooo/SnapKit)[swift中的Masonry] 其他相关：Cartography:自动布局DSL。Neon:一款关于UI自动布局的框架。Stevia:自动布局。TZStackView:UISatckView的代替品，支持iOS7+。
