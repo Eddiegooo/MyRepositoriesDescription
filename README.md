@@ -121,6 +121,4 @@
 
 55.[Reachability.swift](https://github.com/ashleymills/Reachability.swift)[检查网络状态，Alamofire貌似也可以吧]
 
-56[Kingfisher](https://github.com/onevcat/Kingfisher)[类似于OC的SDWebImage]
-55[Reachability.swift](https://github.com/ashleymills/Reachability.swift)[检查网络状态，Alamofire貌似也可以吧于]
-55[Reachability.swift](https://github.com/ashleymills/Reachability.swift)[检查网络状态，Alamofire貌似也可以吧]
+56.[Kingfisher](https://github.com/onevcat/Kingfisher)[类似于OC的SDWebImage]
