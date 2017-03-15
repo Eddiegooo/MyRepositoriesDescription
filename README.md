@@ -39,7 +39,7 @@
 16.[the-swift-programming-language-in-chinese](https://github.com/Eddiegooo/the-swift-programming-language-in-chinese)[中文swift教程]
 [SwiftGuide](https://github.com/Eddiegooo/SwiftGuide)[Swift语言主流学习资源]
 
-17.[Linkage](https://github.com/Eddiegooo/Linkage)[两个TableView之间的联动，TableView与CollectionView之间的联动][swift版本](https://github.com/leejayID/Linkage-Swift)
+17.[Linkage](https://github.com/Eddiegooo/Linkage)[两个TableView之间的联动，TableView与CollectionView之间的联动**数据解析那个分类很值得学习**][swift版本](https://github.com/leejayID/Linkage-Swift)
 [多级下拉菜单](http://www.jianshu.com/p/180b1e2bcf7b)[最多三级菜单，都是tableView的]
 
 18.[MACProject](https://github.com/Eddiegooo/MACProject)[OC版本 APP轻量级框架]
