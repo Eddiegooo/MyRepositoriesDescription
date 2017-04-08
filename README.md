@@ -123,3 +123,5 @@
 55.[Reachability.swift](https://github.com/ashleymills/Reachability.swift)[检查网络状态，Alamofire貌似也可以吧]
 
 56.[Kingfisher](https://github.com/onevcat/Kingfisher)[类似于OC的SDWebImage]
+
+57.[SmarterStreaming](https://github.com/daniulive/SmarterStreaming)[高性能直播sdk]
