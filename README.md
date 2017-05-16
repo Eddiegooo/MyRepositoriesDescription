@@ -127,3 +127,5 @@
 57.[SmarterStreaming](https://github.com/daniulive/SmarterStreaming)[高性能直播sdk]
 
 58.[TZImagePickerController](https://github.com/Eddiegooo/TZImagePickerController)[一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+]
+
+59.[SnapKit](https://github.com/Eddiegooo/SnapKit)[swift版本的Masonty]
