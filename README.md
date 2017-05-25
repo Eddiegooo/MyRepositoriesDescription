@@ -130,3 +130,5 @@
 58.[TZImagePickerController](https://github.com/Eddiegooo/TZImagePickerController)[一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+]
 
 59.[SnapKit](https://github.com/Eddiegooo/SnapKit)[swift版本的Masonty]
+
+60.[WMPageController](https://github.com/Eddiegooo/WMPageController)[顶部tab切换工具库]
