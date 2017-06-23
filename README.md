@@ -4,6 +4,9 @@
 
 ###为了方便以后查找github自己的第三方库，将其列出来. 都是自己直接看名称不太清楚的。每次fork了别人的新库，不是特别清楚的就记录下来，持续更新中。。。
 
+####2017常用热门的33个开源库 [33个热门库](https://mp.weixin.qq.com/s?__biz=MzA3NzM0NzkxMQ==&mid=2655358799&idx=1&sn=44d95531c399243581ad4c53d645a70d&chksm=84e24267b395cb714eb507752141ca037f3f1ef1388ffa3b064e1e3758710af9cc7151c3edb9&mpshare=1&scene=1&srcid=0623Spcl9d795mk9M2flRjQC&key=243547dcedfbad6c0f6f84cbf135acbdcd0226593351051e7696c32218f3edba20dfad0a85c5154011cb98bc12f7fa3fc8e34c2f88140fba41d2c2edeb012582216778221746de252e155ab06d226a0b&ascene=0&uin=MjczNDgxMjA4MA%3D%3D&devicetype=iMac+Macmini7%2C1+OSX+OSX+10.12.3+build(16D32)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=8C6kiuZE5Kz3aNBll9uHRdv2IclrXNWFaHDyjoOCNokpMm2go4BopmNA6E47P36f)
+
+
 1.[BeeHive](https://github.com/Eddiegooo/BeeHive) [天猫的框架]
 
 2.[SwiftyJSON](https://github.com/Eddiegooo/SwiftyJSON)[swift语言 数据解析]
