@@ -134,4 +134,4 @@
 
 59.[SnapKit](https://github.com/Eddiegooo/SnapKit)[swift版本的Masonty]
 
-60.[WMPageController](https://github.com/Eddiegooo/WMPageController)[顶部tab切换工具库]
+60.[WMPageController](https://github.com/Eddiegooo/WMPageController) [TYPagerController](https://github.com/12207480/TYPagerController) [XLPagerTabStrip](https://github.com/Eddiegooo/XLPagerTabStrip)[顶部tab切换工具库]
